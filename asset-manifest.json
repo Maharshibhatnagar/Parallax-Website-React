@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Parallax-Website-React/static/css/main.a4c1d2d4.css",
+    "main.js": "/Parallax-Website-React/static/js/main.913708e6.js",
+    "static/js/787.fcea0ce9.chunk.js": "/Parallax-Website-React/static/js/787.fcea0ce9.chunk.js",
+    "static/media/Letsgo.png": "/Parallax-Website-React/static/media/Letsgo.e1a53908be679deed196.png",
+    "static/media/jungle1.png": "/Parallax-Website-React/static/media/jungle1.5ec83d96505269c854f3.png",
+    "static/media/background.png": "/Parallax-Website-React/static/media/background.f8e0a3e86fb4252623af.png",
+    "static/media/jungle3.png": "/Parallax-Website-React/static/media/jungle3.5350abbda455914478ee.png",
+    "static/media/mountains.png": "/Parallax-Website-React/static/media/mountains.af6b8801f09352cf3f76.png",
+    "static/media/man_on_mountain.png": "/Parallax-Website-React/static/media/man_on_mountain.41b59d37a39bb0b35f75.png",
+    "static/media/jungle4.png": "/Parallax-Website-React/static/media/jungle4.80488612344ed2683ee6.png",
+    "static/media/jungle2.png": "/Parallax-Website-React/static/media/jungle2.b3f7031947988987d357.png",
+    "static/media/jungle5.png": "/Parallax-Website-React/static/media/jungle5.6f841a2d5b2b021093df.png",
+    "index.html": "/Parallax-Website-React/index.html",
+    "main.a4c1d2d4.css.map": "/Parallax-Website-React/static/css/main.a4c1d2d4.css.map",
+    "main.913708e6.js.map": "/Parallax-Website-React/static/js/main.913708e6.js.map",
+    "787.fcea0ce9.chunk.js.map": "/Parallax-Website-React/static/js/787.fcea0ce9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c1d2d4.css",
+    "static/js/main.913708e6.js"
+  ]
+}
